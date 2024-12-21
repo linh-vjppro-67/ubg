@@ -1,0 +1,169 @@
+{
+    "categories": [
+      {
+        "name": "Hàng tiêu dùng",
+        "products": [
+          {
+            "id": 1,
+            "name": "Leather Long Wallet",
+            "color": "Natural",
+            "price": "$75",
+            "href": "#",
+            "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-02.jpg",
+            "imageAlt": "Hand stitched, orange leather long wallet."
+          },
+          {
+            "id": 2,
+            "name": "Machined Pencil and Pen Set",
+            "color": "Black",
+            "price": "$70",
+            "href": "#",
+            "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-03.jpg",
+            "imageAlt": "Olive green canvas backpack with leather straps."
+          },
+          {
+            "id": 3,
+            "name": "Mini-Sketchbooks",
+            "color": "Light Brown",
+            "price": "$27",
+            "href": "#",
+            "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-04.jpg",
+            "imageAlt": "Silver stainless steel watch with a minimalist design."
+          },
+          {
+            "id": 4,
+            "name": "Organizer Set",
+            "color": "Walnut",
+            "price": "$149",
+            "href": "#",
+            "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-01.jpg",
+            "imageAlt": "Black sunglasses with a modern design."
+          }
+        ]
+      },
+      {
+        "name": "Vật tư xanh",
+        "products": [
+            {
+                "id": 1,
+                "name": "Leather Long Wallet",
+                "color": "Natural",
+                "price": "$75",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-02.jpg",
+                "imageAlt": "Hand stitched, orange leather long wallet."
+                },
+                {
+                "id": 2,
+                "name": "Machined Pencil and Pen Set",
+                "color": "Black",
+                "price": "$70",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-03.jpg",
+                "imageAlt": "Olive green canvas backpack with leather straps."
+                },
+                {
+                "id": 3,
+                "name": "Mini-Sketchbooks",
+                "color": "Light Brown",
+                "price": "$27",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-04.jpg",
+                "imageAlt": "Silver stainless steel watch with a minimalist design."
+                },
+                {
+                "id": 4,
+                "name": "Organizer Set",
+                "color": "Walnut",
+                "price": "$149",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-01.jpg",
+                "imageAlt": "Black sunglasses with a modern design."
+                }
+        ]
+      },
+      {
+        "name": "Nông sản",
+        "products": [
+            {
+                "id": 1,
+                "name": "Leather Long Wallet",
+                "color": "Natural",
+                "price": "$75",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-02.jpg",
+                "imageAlt": "Hand stitched, orange leather long wallet."
+              },
+              {
+                "id": 2,
+                "name": "Machined Pencil and Pen Set",
+                "color": "Black",
+                "price": "$70",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-03.jpg",
+                "imageAlt": "Olive green canvas backpack with leather straps."
+              },
+              {
+                "id": 3,
+                "name": "Mini-Sketchbooks",
+                "color": "Light Brown",
+                "price": "$27",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-04.jpg",
+                "imageAlt": "Silver stainless steel watch with a minimalist design."
+              },
+              {
+                "id": 4,
+                "name": "Organizer Set",
+                "color": "Walnut",
+                "price": "$149",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-01.jpg",
+                "imageAlt": "Black sunglasses with a modern design."
+              }
+        ]
+      },
+      {
+        "name": "Thuỷ - Hải sản",
+        "products": [
+            {
+                "id": 1,
+                "name": "Leather Long Wallet",
+                "color": "Natural",
+                "price": "$75",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-02.jpg",
+                "imageAlt": "Hand stitched, orange leather long wallet."
+              },
+              {
+                "id": 2,
+                "name": "Machined Pencil and Pen Set",
+                "color": "Black",
+                "price": "$70",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-03.jpg",
+                "imageAlt": "Olive green canvas backpack with leather straps."
+              },
+              {
+                "id": 3,
+                "name": "Mini-Sketchbooks",
+                "color": "Light Brown",
+                "price": "$27",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-04.jpg",
+                "imageAlt": "Silver stainless steel watch with a minimalist design."
+              },
+              {
+                "id": 4,
+                "name": "Organizer Set",
+                "color": "Walnut",
+                "price": "$149",
+                "href": "#",
+                "imageSrc": "https://tailwindui.com/plus/img/ecommerce-images/home-page-04-trending-product-01.jpg",
+                "imageAlt": "Black sunglasses with a modern design."
+              }
+        ]
+      }
+    ]
+  }
+  
